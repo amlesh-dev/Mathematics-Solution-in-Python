@@ -1,4 +1,6 @@
 import numpy as np
 A=np.mat("3 2;1 0")
 print("A",A)
+jbdan dabjksdkn fsmn jksdfkjfd smn fdkj ksjd dsf jkdsfa kjfds nfdsa kjdf k dfsamn bdfjs 
+fBJK DJK mnf anafBFJD 'faBKJFD kfs
 print("Eigen values :",np.linalg.eigvals(A))
