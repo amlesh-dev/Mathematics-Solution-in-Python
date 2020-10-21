@@ -24,3 +24,5 @@ for i in range(n-2,-1,-1):
     x[i]=(b[i]-sum_ax)/a[i,i]
 print('This is the solution of Gauss Elimination Method ')
 print(x)
+
+nladkbjk vsdb jdsfa mn asdkf sfn k dsfnk sa  sk jas k asdh jhas  ouusad hjsadj saduoj
